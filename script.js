@@ -115,6 +115,15 @@ const themes = {
     "Attitude tumhara kaabil-e-tareef hai, yeh level kisi aur ka nahi hilta.",
     "Happy New Year! Aur haan, hum jaison ko yaad rakhna. 😉.",
     "Happy New Year 🌙"
+  ],
+
+   "Ann Anish Thomas": [
+    "The calendar turns, the old days are gone, And though our chats began but just at dawn.",
+    "In merely days, your spark lit up the view",
+    "A special friend, both lovely and so true.",
+    "May this New Year grant you all your heart desires, May joy and peace ignite your inner fires.",
+    "May success find you on every path you take, And beautiful memories are the bonds we make.",
+    "Happy New Year, may your journey be so bright, Keep sharing your kindness and your precious light! 🌟"
   ]
 };
 
